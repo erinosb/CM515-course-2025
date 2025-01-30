@@ -10,7 +10,7 @@
 
 **Instructor:** Erin Osborne Nishimura, PhD
 
-**Dates:** Monday January 29, 2024 & Wednesday January 31, 2024
+**Dates:** Monday February 3, 2025 & Wednesday February 5, 2025
 
 ## Introduction to Quantitative Cell and Molecular Biology! - R & R Studio Module
 
